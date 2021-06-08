@@ -15,4 +15,3 @@ I look forward to learning more about web development in the coming weeks!
 * watching tv shows
 * playing with my kid
 * baking
-
