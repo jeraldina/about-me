@@ -8,6 +8,11 @@ I look forward to learning more about web development in the coming weeks!
 * [LinkedIn](https://www.linkedin.com/in/jeraldina-mingeli/)
 * [GitHub](https://github.com/jeraldina)
 
+## Technical Skills
+* javascript
+* html
+* css
+
 
 ## For Fun
 * building e-commerce sites
